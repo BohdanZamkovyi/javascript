@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.infoOfSessions{
+    width: 300px;
+    border: 1px solid black;
+    align-content: center;
+    padding: 10px;
+}
